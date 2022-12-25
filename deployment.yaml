@@ -15,5 +15,5 @@ spec:
         app: hello-world-flask
     spec:
       containers:
-      - image: lyzhang1999/hello-world-flask:latest
+      - image: ghostwritten/hello-world-flask:v1
         name: hello-world-flask
